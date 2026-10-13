@@ -17,9 +17,6 @@ A collection of analytics and data-science projects — a mix of coursework and 
 - **[YouTube_comments_etl](YouTube_comments_etl)** — Airflow DAG + Python ETL that pulls YouTube comments via the YouTube Data API.
 - **[youtube_query_sentiment](youtube_query_sentiment)** — Scheduled YouTube data pull on GCP (Cloud Functions + Cloud Scheduler) with sentiment analysis, visualized in a Looker Studio dashboard.
 
-## 📊 Exploratory analysis
-
-- **[Bike Share](Bike%20Share)** — placeholder (empty).
 
 ## Notes
 
